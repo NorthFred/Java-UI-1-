@@ -1,0 +1,39 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27-Apr-2017, 18:36:10
+    Author     : frede
+*/
+
+#button1, #button2, #btnSubmit {
+    -fx-background-color: #4d4d4d;
+    -fx-text-fill: gainsboro;
+}
+#button1:hover, #button2:hover, #btnSubmit:hover {
+    -fx-background-color: #8f8f8f;
+    -fx-text-fill: white;
+}
+
+#hbox,#vbox {
+    -fx-background-color: #000000;
+}
+
+.root {
+    -fx-background-color: #000000;
+}
+
+#lbl1, #lbl2 {
+    -fx-text-fill: aquamarine;
+}
+
+#lbl3 {
+    -fx-text-fill: bisque;
+}
+
+#cmb {
+    -fx-pref-width: 280;
+}
+
